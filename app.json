@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "UDBStreaming",
+    "slug": "UDBStreaming",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "UDBStreaming"
+}
